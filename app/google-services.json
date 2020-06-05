@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "56121392540",
+    "firebase_url": "https://character-reader-86f31.firebaseio.com",
+    "project_id": "character-reader-86f31",
+    "storage_bucket": "character-reader-86f31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56121392540:android:92cfa00937ebc3a4395c59",
+        "android_client_info": {
+          "package_name": "com.saswatsamal.characterreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56121392540-ps9lr7gnc8fgki9duuqpsffob9ou9pfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjNXTMaTk_SEXfIbVg3Ifi7guMR0KfWJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56121392540-ps9lr7gnc8fgki9duuqpsffob9ou9pfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
